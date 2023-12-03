@@ -84,37 +84,37 @@ const Navbar = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="/business">
+                <Link href="/pages/business">
                   <a className="nav-link">Business</a>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="/entertainment">
+                <Link href="/pages/entertainment">
                   <a className="nav-link">Entertainment</a>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="/general">
+                <Link href="/pages/general">
                   <a className="nav-link">General</a>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="/health">
+                <Link href="/pages/health">
                   <a className="nav-link">Health</a>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="/science">
+                <Link href="/pages/science">
                   <a className="nav-link">Science</a>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="/sports">
+                <Link href="/pages/sports">
                   <a className="nav-link">Sports</a>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="/technology">
+                <Link href="/pages/technology">
                   <a className="nav-link">Technology</a>
                 </Link>
               </li>
